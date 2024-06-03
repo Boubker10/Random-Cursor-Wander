@@ -26,4 +26,7 @@ To run this script, you will need Python installed on your computer along with t
 
 ### Usage 
 ```bash
-random_cursor_wander.py
+python random_cursor_wander.py
+
+```bash
+python move.py
