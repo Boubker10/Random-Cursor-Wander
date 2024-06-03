@@ -23,4 +23,7 @@ To run this script, you will need Python installed on your computer along with t
 2. Install PyAutoGUI using pip:
    ```bash
    pip install pyautogui
-  ``` 
+
+### Usage 
+```bash
+random_cursor_wander.py
